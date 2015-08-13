@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="e18f1a7b-7fc0-4b6b-b583-2d87ce39bb22" 
+        solutionId="e18f1a7b-7fc0-4b6b-b583-2d87ce39bb22" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="StateMachine.SharePoint"
+        sharePointProductVersion="15.0">
+</package>
