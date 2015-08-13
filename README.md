@@ -1,6 +1,6 @@
 # StateMachine.SharePoint
 
-This library helps you to implement a state machine validation and event reaction for SharePoint list / document libraries.
+This library allow you simplify the implementation of a state machine based approach for monitor and validates the states of SharePoint list items.
 
 For example, you have a custom publication process implemented through a publication request list item and you want to monitor and validates the state change of such requests. 
 
