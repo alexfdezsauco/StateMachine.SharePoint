@@ -48,13 +48,13 @@ So, you can follow this tree basic steps:
 		/// Called when the field <c>State</c> of an item of <c>PublicationRequestList</c> changed to ReadyToBePublished state.
 		/// </summary>
 		[State("ReadyToBePublished")]
-		private void OnPublished(SPItemEventProperties properties)
+		private void OnReadyToBePublished(SPItemEventProperties properties)
 		{
 			/*...*/
 		}
 	
 		/// <summary>
-		/// Called when the field <c>State</c> of an item of <c>PublicationRequestList</c> changed to Unpublished state.
+		/// Called when the field <c>State</c> of an item of <c>PublicationRequestList</c> changed to ReadyToBeUnpublished state.
 		/// </summary>
 		[State("ReadyToBeUnpublished")]
 		private void OnUnpublished(SPItemEventProperties properties)
